@@ -22,6 +22,7 @@ The pipeline consists of five main task groups:
 ![Process HDB Prices Component](screenshots/hdb-price-component.png)
    - Downloads and processes HDB resale transaction data
    - Compares new data with existing data to determine if updates are needed
+   - If no update is needed, it will skip the remaining pipeline
    - Uploads processed data to Google Cloud Storage
 
     
