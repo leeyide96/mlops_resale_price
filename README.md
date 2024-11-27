@@ -6,6 +6,8 @@ This Apache Airflow pipeline implements an automated MLOps workflow for predicti
 ## Web App
 This pipeline serves the prediction coming from **https://resale-price-predictor.streamlit.app/**
 
+The code for the web app can be found in https://github.com/leeyide96/predictor-streamlit
+
 ## Entire Pipeline Visualization
 ![Entire MLOps Pipeline DAG](screenshots/mlops-pipeline.png)
 
