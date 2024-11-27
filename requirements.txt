@@ -1,0 +1,7 @@
+pmdarima==2.0.4
+apache-airflow-providers-google==10.26.0
+numpy==1.26.4
+pandas
+scikit-learn==1.2.2
+geopy
+xlrd
